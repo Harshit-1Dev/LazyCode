@@ -1,4 +1,3 @@
-// draggableNode.js
 
 export const DraggableNode = ({ type, label, icon, color }) => {
   const onDragStart = (event, nodeType) => {
